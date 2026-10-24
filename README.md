@@ -2,6 +2,8 @@
 
 # Sonar
 
+> **Sonar has moved to [fleet](https://github.com/FranciscoNunes-dxspark/fleet/tree/main/apps/sonar)**, the family's one repository. Its releases are there now, tagged `sonar-v<version>`; an installed Sonar updates itself from them. This repository is kept for its history.
+
 An Azure console for the terminal: your App Service and Function apps, their slots and settings, their
 logs and their problems, with your container apps, storage accounts and Azure SQL databases beside
 them, in one keyboard-driven window. When Keel says production is red, Sonar is
